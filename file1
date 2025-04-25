@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Портфолио — Юрий</title>
+    <title>Моё портфолио</title>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -23,12 +23,6 @@
         }
         header p {
             margin-top: 10px;
-            font-size: 18px;
-        }
-        .about {
-            padding: 20px;
-            max-width: 700px;
-            margin: auto;
             font-size: 18px;
         }
         .gallery {
@@ -52,40 +46,25 @@
             padding: 20px;
             background-color: #eee;
         }
-        .contact a {
-            display: block;
-            margin: 5px 0;
-            text-decoration: none;
-            color: #2c3e50;
-            font-weight: bold;
-        }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Портфолио Юрия</h1>
-    <p>Менеджер | 22 года</p>
+    <h1>Моё портфолио</h1>
+    <p>Фотографии моих работ</p>
 </header>
 
-<section class="about">
-    <h2>Обо мне</h2>
-    <p>Привет! Меня зовут Юрий, мне 22 года. Я занимаюсь менеджментом и с удовольствием делаю проекты качественно и в срок. Ниже — примеры моих работ.</p>
-</section>
-
 <main class="gallery">
-    <img src="https://via.placeholder.com/300x200?text=Проект+1" alt="Проект 1">
-    <img src="https://via.placeholder.com/300x200?text=Проект+2" alt="Проект 2">
-    <img src="https://via.placeholder.com/300x200?text=Проект+3" alt="Проект 3">
-    <img src="https://via.placeholder.com/300x200?text=Проект+4" alt="Проект 4">
+    <img src="https://via.placeholder.com/300x200?text=Фото+1" alt="Фото 1">
+    <img src="https://via.placeholder.com/300x200?text=Фото+2" alt="Фото 2">
+    <img src="https://via.placeholder.com/300x200?text=Фото+3" alt="Фото 3">
+    <img src="https://via.placeholder.com/300x200?text=Фото+4" alt="Фото 4">
+    <img src="https://via.placeholder.com/300x200?text=Фото+5" alt="Фото 5">
 </main>
 
 <footer>
-    <h3>Контакты</h3>
-    <div class="contact">
-        <a href="mailto:lieontievyurii@gmail.com">lieontievyurii@gmail.com</a>
-        <a href="https://t.me/sabrineqqw" target="_blank">@sabrineqqw в Telegram</a>
-    </div>
+    <p>Связаться со мной: example@email.com</p>
 </footer>
 
 </body>
